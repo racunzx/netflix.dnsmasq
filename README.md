@@ -1,4 +1,4 @@
-# netflix.dnsmasq
+# netflix.dnsmasq ..
 安装方法
 wget https://raw.githubusercontent.com/guolongchu/netflix.dnsmasq/master/unlock.sh && chmod +x unlock.sh && ./unlock.sh 你的你个BGP解锁IP
 
